@@ -1,7 +1,7 @@
 Sentimental Analysis (Twitter)
 =========
 
-This tool is an implementation of the Twitter Sentiment analysis tool as described on [Laurent Luce's blog][1].
+This tool is an implementation of the Twitter Sentiment Analysis tool as described on [Laurent Luce's blog][1].
 
 Pre-requisites
 ------------
