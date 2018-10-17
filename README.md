@@ -47,7 +47,10 @@ Result
 ---------
 With the use of the above-mentioned data, we have calculated the accuracy of the sentimental analysis to be 90% which can be further improved with the use of some different packages and tools.
 
-Wish you a **Happy Programming**
-
+Contributor
+---------
+-  [Rayan Dasoriya](https://www.linkedin.com/in/rayan-dasoriya/)
+ - [Javan Rajpopat](https://www.linkedin.com/in/javanrajpopat/)
+ 
 [1]: http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
 
